@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# Version 0.11 by TF tommy@binbash.de
+# Version 0.11 by tho-fu
 
 import subprocess
 
